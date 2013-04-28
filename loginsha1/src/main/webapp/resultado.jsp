@@ -70,7 +70,7 @@
 <body>
 	<div align="center">
 		<p>[<b>LogicaAlternativa.com</b>] Ejemplo de securización acceso sha1</p> 
-		<p>Para más información leé el <a href="http://wwww.logicaalternativa.com/java-securizacion-de-formulario-de-acceso-con-sha-1">POST</a>. También puedes ver el <a href="https://github.com/logicaalternativa/ejemplosPhp/tree/master/loginsha1/resultado.php" target="_blank">código</a></p>
+		<p>Para más información leé el <a href="http://wwww.logicaalternativa.com/java-securizacion-de-formulario-de-acceso-con-sha-1">POST</a>. También puedes ver el <a href="https://github.com/logicaalternativa/ejemplosJava/blob/master/loginsha1/src/main/webapp/resultado.jsp" target="_blank">código</a></p>
 	</div>
 
 	<div align="center">

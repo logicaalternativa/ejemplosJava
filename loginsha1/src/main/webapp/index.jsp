@@ -68,7 +68,7 @@ function sf(){
 <body onLoad="javaScript:sf();">
 <div align="center">
 	<p>[<b>LogicaAlternativa.com</b>] Ejemplo de securización acceso sha1</p>	
-	<p>Para más información leé el <a href="http://wwww.logicaalternativa.com/java-securizacion-de-formulario-de-acceso-con-sha-1">POST</a>. También puedes ver el <a href="https://github.com/logicaalternativa/ejemplosPhp/tree/master/loginsha1/index.php" target="_blank">código</a></p>
+	<p>Para más información leé el <a href="http://wwww.logicaalternativa.com/java-securizacion-de-formulario-de-acceso-con-sha-1">POST</a>. También puedes ver el <a href="https://github.com/logicaalternativa/ejemplosJava/blob/master/loginsha1/src/main/webapp/index.jsp" target="_blank">código</a></p>
 </div>
 
 <br/>
